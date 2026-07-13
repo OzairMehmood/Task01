@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+.idea/dbnavigator.xml
+.idea/material_theme_project_new.xml
